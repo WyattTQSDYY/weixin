@@ -1,0 +1,45 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx88023f30b88d584f",
+# 公众号appSecret
+"app_secret": "227bd0209ef925ee3a3f5bb1f7e87d94",
+# 模板消息id
+"template_id": "tbrukT4HliPAJZkPot-DOnEHcoSJ3me4ZN4fsRTU4zo",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oNkGC6vciEumAgS0ZV5XvKsyEa3g"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "fa0f587e36fb48a595c59545415db506",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "南昌市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "猫猫", "birthday": "2001-01-01"},
+# 生日2
+"birthday2": {"name": "玥玥", "birthday": "2001-01-01"},
+# 生日3
+"birthday3": {"name": "红红", "birthday": "2001-01-01"},
+# 生日4
+"birthday4": {"name": "泱泱", "birthday": "1999-08-07"},
+# 生日5
+"birthday5": {"name": "六六", "birthday": "2001-01-01"},
+# 生日6
+"birthday6": {"name": "雪梨", "birthday": "2001-01-01"},
+# 生日7
+"birthday7": {"name": "阿祖", "birthday": "2001-01-01"},
+# 生日8
+"birthday8": {"name": "厨子", "birthday": "2001-01-01"},
+# 生日9
+"birthday9": {"name": "燕燕", "birthday": "2001-01-01"},
+# 生日10
+"birthday10": {"name": "乐乐", "birthday": "2001-01-01"},
+# 生日11
+"birthday11": {"name": "欢欢", "birthday": "2001-01-01"},
+# 相识的日子，格式同上，暂不不支持农历
+"acquaintance_date": "2022-08-07",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
